@@ -5,12 +5,16 @@
 
 Welcome abroad onto my ship!
 
-I'm Captain Yulian and I will be introducing myself.
+I will be introducing myself. I am Captain Yulian.
 
 I am on a voyage to Cythera with my crew. Cythera is neither the place nor the God. It is whatever you'd love it to be.
 
-For me, it is programming! I am not that great at it, but it still is my hobby. I'm actually a Pharmacist by the way!
+My crew currently consists of Biggie, Nooby, and Mythic. I would include gramps, but it seems like he has found his Cythera to rest on.
+
+Anyways... Cythera for me, a part of it, is programming! I am not that great at it, but I love it. My real occupation is a pharmacist, by the way!
 
 I mostly use Rust when I can, Python for automation, and OCaml for a certain thing I cannot legally speak of.
 
-Oh and, I also like Fortran. It's a shame this language didn't make it outside competing with MATLAB.
+Oh and, I also like Fortran. It's a shame this language's only place is to be competing with MATLAB.
+
+That is all I can say. My ship will continue sailing, my voyage never ending. To Cythera I am going, this land I will be departing. See you at the end of the universe. Onwards!
