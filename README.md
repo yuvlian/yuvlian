@@ -1,7 +1,3 @@
-she XOR on my bit til i flip
+## she was a&nbsp;&nbsp;<img src="./Capture.PNG" alt="real" width="600"/>&nbsp;&nbsp;girl
 
-she SYN on my ACK til i FIN
-
-she * on my &T til i T
-
-she ud2 on my—Program received signal SIGILL
+## he was a&nbsp;&nbsp;<img src="./1500x500.jpeg" alt="real" width="600"/>&nbsp;&nbsp;boy
